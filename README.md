@@ -12,7 +12,7 @@ How to use ?
 8. Click to 1--> Depackaging Folder 2-->Dezip Folder 3-->Decrypt File
 
 Beta Version (Sender and receiver same e-mail account)
-![ Alt text](screen.png)  [](screen.png)
+![ Alt text](screen.jpg)  [](screen.jpg)
 <br />
 </a>
 
