@@ -11,5 +11,9 @@ How to use ?
 7. If you a receiver copy your package on desktop
 8. Click to 1--> Depackaging Folder 2-->Dezip Folder 3-->Decrypt File
 
+![ Alt text](screen.png)  [](screen.png)
+<br />
+</a>
+
 ATTENTION: THIS PROJECT IS NOT FINISHED YET BECAUSE I TRY TO PHYSICAL ENCRYPTION METHOD
 
