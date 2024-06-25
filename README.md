@@ -11,6 +11,7 @@ How to use ?
 7. If you a receiver copy your package on desktop
 8. Click to 1--> Depackaging Folder 2-->Dezip Folder 3-->Decrypt File
 
+Beta Version (Sender and receiver same e-mail account)
 ![ Alt text](screen.png)  [](screen.png)
 <br />
 </a>
